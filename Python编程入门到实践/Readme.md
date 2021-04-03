@@ -1,7 +1,7 @@
 此部分基于个人对《python编程从入门到实践》的学习
 =
 
-![本书封面]（https://github.com/lingd0407/pythonLearning/blob/main/Python.png）
+![本书封面]（Python编程入门到实践/封面.png）
 
 第一部分 基础知识
 -
